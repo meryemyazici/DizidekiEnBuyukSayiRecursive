@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1659298621 source:c:\users\meryem\codeblocks-workspace\recursiveornekleri\dizidekienbuyuksayirecursive\main.c
+	<stdio.h>
+	<stdlib.h>
+
